@@ -6,7 +6,7 @@
 
 
 /**
- * @param array $totalPage 结果集
+ * @param number $totalPage 结果集
  * @param number $pageshow 每页显示的记录条数
  * @param number $page 当前页/偏移
  * @param string $name 附加参数名。可直接附加整个query string
